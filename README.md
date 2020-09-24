@@ -23,7 +23,7 @@ Alternatively, copies of these might exist in Ali's or Tim's offices, although t
 
  - The latest versions of **MATLAB** and **Mathematica** can be downloaded and installed via [Oxford's IT Services](https://register.it.ox.ac.uk/self/index) (click on *"Register for and download site-licensed software"*).
  - [Anaconda](https://www.anaconda.com/) is a popular way of installing **Python**, especially in the sciences, but (JY) I prefer [installing the "official" CPython implementation](https://www.python.org/downloads/) since you don't end up being so tied to a particular ecosystem. On Unix systems you can use your system's package manager to install it (on macOS, use [Homebrew](https://brew.sh/)).
- - [Chacon, Straub: *Pro Git*](https://git-scm.com/book/en/v2) is a thorough but very readable introduction to version control with Git. If you have a GitHub account, let somebody know so that you can be added to [the group's GitHub organisation](https://github.com/foroozandehgroup).
+ - [Chacon, Straub: *Pro Git*](https://git-scm.com/book/en/v2) is a thorough but very readable introduction to version control with **Git**. If you have a GitHub account, let somebody know so that you can be added to [the group's GitHub organisation](https://github.com/foroozandehgroup).
  
 **NMR processing software**
 
