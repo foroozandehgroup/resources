@@ -3,6 +3,7 @@
 ## Books
 
 Most of these can be found at the Radcliffe Science Library (indeed, there may already be one copy loaned out to somebody in the group).
+Electronic versions are usually available too
 Alternatively, copies of these might exist in Ali's or Tim's offices, although these are probably harder to get to in 2020.
 
 **NMR** (in roughly ascending order of depth):
@@ -12,7 +13,8 @@ Alternatively, copies of these might exist in Ali's or Tim's offices, although t
  - [Ernst, Bodenhausen, Wokaun: *Principles of Nuclear Magnetic Resonance in One and Two Dimensions*](https://www.amazon.co.uk/Principles-Resonance-Dimensions-International-Monographs/dp/0198556470)
  - [Goldman: *Quantum Description of High-Resolution NMR in Liquids*](https://global.oup.com/academic/product/quantum-description-of-high-resolution-nmr-in-liquids-9780198556527)
  
-**ESR**
+**ESR** (in roughly ascending order of depth):
+ - [Brustolon, Giamello: *Electron Paramagnetic Resonance: A Practitioner's Toolkit*](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470432235)
  - [Schweiger, Jeschke: *Principles of Pulse Electron Paramagnetic Resonance*](https://www.amazon.co.uk/Principles-Pulse-Electron-Paramagnetic-Resonance/dp/0198506341)
  - [Tsvetkov, Bowman, Grishin: *Pulsed Electron–Electron Double Resonance*](https://www.amazon.co.uk/Pulsed-Electron-Electron-Double-Resonance-Measurement-ebook)
 
@@ -42,3 +44,10 @@ Alternatively, copies of these might exist in Ali's or Tim's offices, although t
  - [Southampton lectures](http://spindynamics.org/group/?page_id=18): Undergraduate and graduate lectures at the University of Southampton, mostly Ilya Kuprov
  - [Gilbert Strang on linear algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D): MIT OpenCourseWare course.
  - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists): Assorted maths topics with accompanying visualisations
+ 
+ 
+ ## Conferences
+ 
+ - [International Council on Magnetic Resonance in Biological Systems (ICMRBS) channel](https://www.youtube.com/channel/UCsxup-QiNEeBrfo-4d5w33Q)
+ - [Global NMR discussion meetings](https://www.youtube.com/c/GlobalNMRDiscussionMeetings)
+ - [Nitrogen Vacancy center magnetic resonance - NV MR playlist](https://www.youtube.com/playlist?list=PL8tlQKSjnVbwQL0S6cEJ8fPvju9YEtvBf)
