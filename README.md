@@ -32,7 +32,7 @@ Alternatively, copies of these might exist in Ali's or Tim's offices, although t
 **Open-source software for QM simulations**
 
  - [Spinach](http://spindynamics.org/Spinach.php/) (MATLAB)
- - [EasySpin](https://easyspin.org/)
+ - [EasySpin](https://easyspin.org/) (MATLAB)
  - [SpinDynamica](http://www.spindynamica.soton.ac.uk/) (Mathematica)
 
 
