@@ -3,7 +3,7 @@
 ## Books
 
 Most of these can be found at the Radcliffe Science Library (indeed, there may already be one copy loaned out to somebody in the group).
-Electronic versions are usually available too
+Electronic versions are usually available too.
 Alternatively, copies of these might exist in Ali's or Tim's offices, although these are probably harder to get to in 2020.
 
 **NMR** (in roughly ascending order of depth):
@@ -18,6 +18,8 @@ Alternatively, copies of these might exist in Ali's or Tim's offices, although t
  - [Schweiger, Jeschke: *Principles of Pulse Electron Paramagnetic Resonance*](https://www.amazon.co.uk/Principles-Pulse-Electron-Paramagnetic-Resonance/dp/0198506341)
  - [Tsvetkov, Bowman, Grishin: *Pulsed Electron–Electron Double Resonance*](https://www.amazon.co.uk/Pulsed-Electron-Electron-Double-Resonance-Measurement-ebook)
 
+**MRI** :
+ - [Hornak: *The Basics of MRI*](https://www.cis.rit.edu/htbooks/mri/inside.htm)
 
 ## Software
 
