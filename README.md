@@ -22,7 +22,7 @@ ESR:
 Programming:
 
  - The latest version of **MATLAB** and **Mathematica** can be downloaded and installed via [Oxford's IT Services](https://register.it.ox.ac.uk/self/index) (click on *"Register for and download site-licensed software"*).
- - [Anaconda](https://www.anaconda.com/) is a popular way of installing **Python**, especially in the sciences, but JY prefers [installing the "official" CPython implementation](https://www.python.org/downloads/) since you don't end up being so tied to a particular ecosystem. On macOS you can use Homebrew to download it.
+ - [Anaconda](https://www.anaconda.com/) is a popular way of installing **Python**, especially in the sciences, but (JY) I prefer [installing the "official" CPython implementation](https://www.python.org/downloads/) since you don't end up being so tied to a particular ecosystem. On Unix systems you can use an appropriate package manager to install it (on macOS, [Homebrew](https://brew.sh/)).
  
 NMR processing software:
 
