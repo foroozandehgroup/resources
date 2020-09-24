@@ -5,30 +5,30 @@
 Most of these can be found at the Radcliffe Science Library (indeed, there may already be one copy loaned out to somebody in the group).
 Alternatively, copies of these might exist in Ali's or Tim's offices, although these are probably harder to get to in 2020.
 
-NMR (in roughly ascending order of depth):
+**NMR** (in roughly ascending order of depth):
  - [Hore: *Nuclear Magnetic Resonance* and *NMR, The Toolkit*](http://hore.chem.ox.ac.uk/books.shtml)
  - [Keeler: *Understanding NMR Spectroscopy*](https://www.amazon.co.uk/Understanding-NMR-Spectroscopy-James-Keeler/dp/0470746084)
  - [Levitt: *Spin Dynamics*](https://www.wiley.com/en-gb/Spin+Dynamics%3A+Basics+of+Nuclear+Magnetic+Resonance%2C+2nd+Edition-p-9781118681848)
  - [Ernst, Bodenhausen, Wokaun: *Principles of Nuclear Magnetic Resonance in One and Two Dimensions*](https://www.amazon.co.uk/Principles-Resonance-Dimensions-International-Monographs/dp/0198556470)
  - [Goldman: *Quantum Description of High-Resolution NMR in Liquids*](https://global.oup.com/academic/product/quantum-description-of-high-resolution-nmr-in-liquids-9780198556527)
  
-ESR:
+**ESR**
  - [Schweiger, Jeschke: *Principles of Pulse Electron Paramagnetic Resonance*](https://www.amazon.co.uk/Principles-Pulse-Electron-Paramagnetic-Resonance/dp/0198506341)
  - [Tsvetkov, Bowman, Grishin: *Pulsed Electron–Electron Double Resonance*](https://www.amazon.co.uk/Pulsed-Electron-Electron-Double-Resonance-Measurement-ebook)
 
 
 ## Software
 
-Programming:
+**Programming**
 
- - The latest version of **MATLAB** and **Mathematica** can be downloaded and installed via [Oxford's IT Services](https://register.it.ox.ac.uk/self/index) (click on *"Register for and download site-licensed software"*).
+ - The latest versions of **MATLAB** and **Mathematica** can be downloaded and installed via [Oxford's IT Services](https://register.it.ox.ac.uk/self/index) (click on *"Register for and download site-licensed software"*).
  - [Anaconda](https://www.anaconda.com/) is a popular way of installing **Python**, especially in the sciences, but (JY) I prefer [installing the "official" CPython implementation](https://www.python.org/downloads/) since you don't end up being so tied to a particular ecosystem. On Unix systems you can use an appropriate package manager to install it (on macOS, [Homebrew](https://brew.sh/)).
  
-NMR processing software:
+**NMR processing software**
 
  - [TopSpin](https://www.bruker.com/service/support-upgrades/software-downloads/nmr/free-topspin-processing/nmr-topspin-license-for-academia.html): free to download with an academic email
 
-Open-source software for simulations in magnetic resonance:
+**Open-source software for QM simulations**
 
  - [Spinach](http://spindynamics.org/Spinach.php/) (MATLAB)
  - [EasySpin](https://easyspin.org/)
