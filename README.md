@@ -22,7 +22,7 @@ Alternatively, copies of these might exist in Ali's or Tim's offices, although t
 **Programming**
 
  - The latest versions of **MATLAB** and **Mathematica** can be downloaded and installed via [Oxford's IT Services](https://register.it.ox.ac.uk/self/index) (click on *"Register for and download site-licensed software"*).
- - [Anaconda](https://www.anaconda.com/) is a popular way of installing **Python**, especially in the sciences, but (JY) I prefer [installing the "official" CPython implementation](https://www.python.org/downloads/) since you don't end up being so tied to a particular ecosystem. On Unix systems you can use an appropriate package manager to install it (on macOS, [Homebrew](https://brew.sh/)).
+ - [Anaconda](https://www.anaconda.com/) is a popular way of installing **Python**, especially in the sciences, but (JY) I prefer [installing the "official" CPython implementation](https://www.python.org/downloads/) since you don't end up being so tied to a particular ecosystem. On Unix systems you can use your system's package manager to install it (on macOS, use [Homebrew](https://brew.sh/)).
  
 **NMR processing software**
 
