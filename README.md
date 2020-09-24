@@ -10,7 +10,7 @@ Alternatively, copies of these might exist in Ali's or Tim's offices, although t
  - [Hore: *Nuclear Magnetic Resonance* and *NMR, The Toolkit*](http://hore.chem.ox.ac.uk/books.shtml)
  - [Keeler: *Understanding NMR Spectroscopy*](https://www.amazon.co.uk/Understanding-NMR-Spectroscopy-James-Keeler/dp/0470746084)
  - [Levitt: *Spin Dynamics*](https://www.wiley.com/en-gb/Spin+Dynamics%3A+Basics+of+Nuclear+Magnetic+Resonance%2C+2nd+Edition-p-9781118681848)
- - [John Cavanagh Nicholas Skelton Wayne Fairbrother Mark Rance Arthur Palmer, III: *Protein NMR Spectroscopy: Principles and Practice*](https://www.elsevier.com/books/protein-nmr-spectroscopy/cavanagh/978-0-12-164491-8)
+ - [Cavanagh, Skelton, Fairbrother, Rance, Palmer: *Protein NMR Spectroscopy: Principles and Practice*](https://www.elsevier.com/books/protein-nmr-spectroscopy/cavanagh/978-0-12-164491-8)
  - [Ernst, Bodenhausen, Wokaun: *Principles of Nuclear Magnetic Resonance in One and Two Dimensions*](https://www.amazon.co.uk/Principles-Resonance-Dimensions-International-Monographs/dp/0198556470)
  - [Goldman: *Quantum Description of High-Resolution NMR in Liquids*](https://global.oup.com/academic/product/quantum-description-of-high-resolution-nmr-in-liquids-9780198556527)
  
