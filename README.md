@@ -33,6 +33,7 @@ Alternatively, copies of these might exist in Ali's or Tim's offices, although t
 **NMR processing software**
 
  - [TopSpin](https://www.bruker.com/service/support-upgrades/software-downloads/nmr/free-topspin-processing/nmr-topspin-license-for-academia.html): free to download with an academic email
+ - [NMRGlue](https://www.nmrglue.com/): a Python package with a rich range of features for processing NMR data.
 
 **Open-source software for QM simulations**
 
