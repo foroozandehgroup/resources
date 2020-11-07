@@ -47,8 +47,8 @@ Alternatively, copies of these might exist in Ali's or Tim's offices, although t
  - [The ANZMAG channel](https://www.youtube.com/user/ANZMAG/playlists): Several series of lectures on different topics in magnetic resonance
  - [Southampton lectures](http://spindynamics.org/group/?page_id=18): Undergraduate and graduate lectures at the University of Southampton, mostly Ilya Kuprov
  - Gilbert Strang's MIT courses:
-   - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
-   - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
+   - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) ([YouTube playlist](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C))
+   - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm) ([YouTube playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k))
  - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists): Assorted maths topics with accompanying visualisations
  
  
