@@ -19,7 +19,7 @@ Alternatively, copies of these might exist in Ali's or Tim's offices, although t
  - [Schweiger, Jeschke: *Principles of Pulse Electron Paramagnetic Resonance*](https://www.amazon.co.uk/Principles-Pulse-Electron-Paramagnetic-Resonance/dp/0198506341)
  - [Tsvetkov, Bowman, Grishin: *Pulsed Electron–Electron Double Resonance*](https://www.amazon.co.uk/Pulsed-Electron-Electron-Double-Resonance-Measurement-ebook)
 
-**MRI** :
+**MRI**:
  - [Hornak: *The Basics of MRI*](https://www.cis.rit.edu/htbooks/mri/inside.htm)
 
 ## Software
@@ -27,13 +27,14 @@ Alternatively, copies of these might exist in Ali's or Tim's offices, although t
 **Programming and other technology**
 
  - The latest versions of **MATLAB** and **Mathematica** can be downloaded and installed via [Oxford's IT Services](https://register.it.ox.ac.uk/self/index) (click on *"Register for and download site-licensed software"*).
- - [Anaconda](https://www.anaconda.com/) is a popular way of installing **Python**, especially in the sciences, but (JY) I prefer [installing the "official" CPython implementation](https://www.python.org/downloads/) since you don't end up being so tied to a particular ecosystem. On Unix systems you can use your system's package manager to install it (on macOS, use [Homebrew](https://brew.sh/)).
+ - [Anaconda](https://www.anaconda.com/) is a popular way of installing **Python**, especially in the sciences, but (JY) I prefer [installing the "base" CPython distribution](https://www.python.org/downloads/) since you don't end up being so tied to a particular ecosystem. On Unix systems you can use your system's package manager to install it (on macOS, use [Homebrew](https://brew.sh/)).
  - [Chacon, Straub: *Pro Git*](https://git-scm.com/book/en/v2) is a thorough but very readable introduction to version control with **Git**. If you have a GitHub account, let somebody know so that you can be added to [the group's GitHub organisation](https://github.com/foroozandehgroup).
  
 **NMR processing software**
 
  - [TopSpin](https://www.bruker.com/service/support-upgrades/software-downloads/nmr/free-topspin-processing/nmr-topspin-license-for-academia.html): free to download with an academic email
  - [NMRGlue](https://www.nmrglue.com/): a Python package with a rich range of features for processing NMR data.
+ - [penguins](https://github.com/yongrenjie/penguins/): another Python package (written by JY) for reading, plotting, and basic processing of NMR data. Still in development, but core features are stable.
 
 **Open-source software for QM simulations**
 
