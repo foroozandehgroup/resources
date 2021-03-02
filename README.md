@@ -35,13 +35,13 @@ Alternatively, copies of these might exist in Ali's or Tim's offices, although t
  - [TopSpin](https://www.bruker.com/service/support-upgrades/software-downloads/nmr/free-topspin-processing/nmr-topspin-license-for-academia.html): free to download with an academic email
  - [NMRGlue](https://www.nmrglue.com/): a Python package with a rich range of features for processing NMR data.
  - [penguins](https://github.com/yongrenjie/penguins/): another Python package (written by JY) for reading, plotting, and basic processing of NMR data. Still in development, but core features are stable.
+ - [nmrespy](https://github.com/foroozandehgroup/NMR-EsPy): a Python package (written by SGH) for estimating NMR spectral parameters.
 
 **Open-source software for QM simulations**
 
  - [Spinach](http://spindynamics.org/Spinach.php/) (MATLAB)
  - [EasySpin](https://easyspin.org/) (MATLAB)
  - [SpinDynamica](http://www.spindynamica.soton.ac.uk/) (Mathematica)
-
 
 ## Online lectures
 
